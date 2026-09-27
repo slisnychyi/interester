@@ -43,3 +43,4 @@ out/
 .claude
 doc/work
 doc/test-runs
+.idea/
